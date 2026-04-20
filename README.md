@@ -23,12 +23,10 @@ Previously Microsoft Defender (SRE + AI), Google Cloud (data engineering).
 
 ### 📈 Selected track record
 
-| | |
-|---|---|
-| **9 years** | shipping production AI + data infrastructure at Connectly, Microsoft, and Google |
-| **22,000+** | developers taught on DataCamp across 3 courses (4.7★+) |
-| **Multi-cloud** | AWS, Azure, and GCP — production experience at enterprise scale |
-| **2** | peer-reviewed publications — deep RL testing ('20, ICSE workshop) and genome assembly ('23) |
+- **9 years** shipping production AI + data infrastructure at Connectly, Microsoft, and Google
+- **22,000+** developers taught on DataCamp across 3 courses (4.7★+)
+- **Multi-cloud** — AWS, Azure, and GCP at enterprise scale
+- **2 peer-reviewed publications** — deep RL testing ('20, ICSE workshop) and genome assembly ('23)
 
 ---
 
