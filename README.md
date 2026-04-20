@@ -16,7 +16,7 @@ Previously Microsoft Defender (SRE + AI), Google Cloud (data engineering).
 - 🧠 **Research** — [`hebbian-memory-agent`](https://github.com/matrujillo10/hebbian-memory-agent): inference-time activation-fingerprint memory for LLM agents. <1% overhead, beats baseline in 17 of 26 configs.
 - 🏗️ **Platform** — founded Connectly's AI Platform team in Colombia. I work on agent evaluation, deployment, and cross-session memory infrastructure.
 - 🔎 **Side quest** — scanning AI-infrastructure problems with [`opportunity-finder`](https://github.com/matrujillo10/opportunity-finder), a Claude Code workspace.
-- 📚 **Teaching** — Assistant Professor, Data Structures & Algorithms, *Universidad de los Andes*. 22,000+ students across 3 courses on DataCamp (4.7★+).
+- 📚 **Teaching** — Assistant Professor, Data Structures & Algorithms, *Universidad de los Andes*. 22,000+ students across 3 DataCamp courses (4.7★+): [Modern Data Architecture](https://app.datacamp.com/learn/courses/understanding-modern-data-architecture) · [OOP in Java](https://app.datacamp.com/learn/courses/introduction-to-object-oriented-programming-in-java) · [PostgreSQL in Java](https://app.datacamp.com/learn/courses/querying-a-postgresql-database-in-java).
 - 🔨 **Stealth** — cooking something new in AI agent memory. *Soon.*
 
 ---
