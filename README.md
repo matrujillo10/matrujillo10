@@ -1,6 +1,6 @@
 # Andrés Trujillo
 
-### AI Engineer · AI agent platforms, evaluation, and memory
+### AI Engineer (And Researcher) · AI agent platforms, evaluation, and memory
 
 I ship AI agent infrastructure end-to-end — evaluation, deployment, observability, memory.
 Currently at **[Connectly](https://connectly.ai)**, where I founded the AI Platform team in Colombia.
@@ -8,6 +8,8 @@ Previously Microsoft Defender (SRE + AI), Google Cloud (data engineering).
 
 > **Currently exploring:** AI-infra problems worth building a company around.
 > Open to interesting conversations — [email](mailto:andrestrujillo098@gmail.com) · [LinkedIn](https://linkedin.com/in/millert-trujillo)
+
+[Google Scholar Profile](https://scholar.google.com/citations?user=gzjAgUYAAAAJ&hl=es&oi=ao)
 
 ---
 
